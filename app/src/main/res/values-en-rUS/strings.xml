@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Horoscopos</string>
+    <string name="comenzar">Start</string>
+    <string name="nombre">Enter your name</string>
+    <string name="nacimiento">Date of birth</string>
+    <string name="cuenta">Account number</string>
+    <string name="digitos">9 Digits</string>
+    <string name="correo">Email</string>
+    <string name="obligatorio">Required field</string>
+    <string name="error">Fields are missing</string>
+    <string name="edad">You are %d years old</string>
+    <string name="mono">Your Chinese year is the MONKEY</string>
+    <string name="gallo">Your Chinese year is the ROOSTER</string>
+    <string name="perro">Your Chinese year is the DOG</string>
+    <string name="cerdo">Your Chinese year is the PIG</string>
+    <string name="rata">Your Chinese year is the RAT</string>
+    <string name="buey">Your Chinese year is the OX</string>
+    <string name="tigre">Your Chinese year is the TIGER</string>
+    <string name="dragon">Your Chinese year is the DRAGON</string>
+    <string name="serpiente">Your Chinese year is the SNAKE</string>
+    <string name="caballo">Your Chinese year is the HORSE</string>
+    <string name="cabra">Your Chinese year is the GOAT</string>
+</resources>

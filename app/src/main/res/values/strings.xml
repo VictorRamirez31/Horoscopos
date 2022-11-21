@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name" translatable="false">Horoscopos</string>
+    <string name="comenzar">Comenzar</string>
+    <string name="nombre">Ingresa tu nombre</string>
+    <string name="nacimiento">Fecha de nacimiento</string>
+    <string name="cuenta">Numero de cuenta</string>
+    <string name="digitos">9 Digitos</string>
+    <string name="correo">Correo electronico</string>
+    <string name="obligatorio">Campo obligatorio</string>
+    <string name="error">Faltan campos</string>
+    <string name="edad">Tienes %d años</string>
+    <string name="mono">Tu año chino es el MONO</string>
+    <string name="gallo">Tu año chino es el GALLO</string>
+    <string name="perro">Tu año chino es el PERRO</string>
+    <string name="cerdo">Tu año chino es el CERDO</string>
+    <string name="rata">Tu año chino es la RATA</string>
+    <string name="buey">Tu año chino es el BUEY</string>
+    <string name="conejo">Tu año chino es el conejo</string>
+    <string name="tigre">Tu año chino es el TIGRE</string>
+    <string name="dragon">Tu año chino es el DRAGON</string>
+    <string name="serpiente">Tu año chino es la SERPIENTE</string>
+    <string name="caballo">Tu año chino es el CABALLO</string>
+    <string name="cabra">Tu año chino es la CABRA</string>
+    <string name="titulo">HOROSCOPOS</string>
+
+</resources>
